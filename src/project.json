@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Crpto Tracker",
+      "imageSrc": "/data/cryptoss.png",
+      "description": "This is a project made to learn the latest web technologies by building a cryptocurrency tracker app for real-time price and market monitoring",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Amazon clone",
+      "imageSrc": "/data/amazonss.png",
+      "description": "Built to learn modern web technologies by building an Amazon clone app with features like product listings, a shopping cart, and user authentication.",
+      "skills": ["React", "JavaScript", "CSS", "HTML"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "/data/weatherss.png",
+      "description": "Built to explore web technologies through a weather app and fetches real-time weather data using an API displays it for user-specified locations.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
