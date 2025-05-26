@@ -1,14 +1,14 @@
 [
     {
       "title": "Coffee-shop-sales Analysis",
-      "imageSrc": "/data/cryptoss.png",
+      "imageSrc": "/data/coffee-sales-analysis.png",
       "description": "This project is a Power BI dashboard that shows the sales performance of a coffee shop with multiple store locations. It helps understand how the business is doing by analyzing sales, customer visits, top products, and buying patterns.",
       "skills": ["Excel", "Power BI"],
       "source": "https://www.github.com/siddhikewatkar/Coffee-shop-sales-Analysis"
     },
     {
       "title": "Superstore-sales Analysis",
-      "imageSrc": "/data/amazonss.png",
+      "imageSrc": "/data/superstore-sales-analysis.png",
       "description": "This Power BI dashboard provides a detailed analysis of product performance across different categories, regions, and markets. It helps businesses track sales, discounts, quantity, and market behavior to make data-driven decisions.",
       "skills": ["Excel", "Power BI"],
       "source": "https://www.github.com/siddhikewatkar/Superstore-sales-Analysis"
