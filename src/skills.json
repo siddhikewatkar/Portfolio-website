@@ -1,22 +1,22 @@
 [  
   {
-    "title": "HTML",
-    "imageSrc": "/data/html.png"
+    "title": "Excel",
+    "imageSrc": "/data/excel.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "/data/css.png"
+    "title": "Power BI",
+    "imageSrc": "/data/powerbi.png"
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "/data/javascript.png"
+    "title": "Tableau",
+    "imageSrc": "/data/tableau.png"
   },
   {
-    "title": "React",
-    "imageSrc": "/data/react.png"
+    "title": "SQL",
+    "imageSrc": "/data/sql.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "/data/figma.png"
+    "title": "Python",
+    "imageSrc": "/data/python.png"
   }
 ]
