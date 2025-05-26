@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Siddhi</h1>
         <p className={styles.description}>
-        A passionate fresher frontend developer skilled in modern frontend technologies. Reach out if you'd like to connect or collaborate!
+        Engineering student passionate about data-driven decisions, skilled in Power BI, Excel, and SQL, aspiring Business Analyst
         </p>
         <a href="mailto:siddhikewatkar27@gmail.com" className={styles.contactBtn}>
           Contact Me
