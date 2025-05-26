@@ -1,26 +1,17 @@
 [
     {
-      "title": "Crypto Tracker",
+      "title": "Coffee-shop-sales Analysis",
       "imageSrc": "/data/cryptoss.png",
-      "description": "This is a project made to learn the latest web technologies by building a cryptocurrency tracker app for real-time price and market monitoring",
-      "skills": ["HTML", "CSS", "JavaScript", "React"],
-      "demo": "https://sid-crypto.netlify.app/",
-      "source": "https://www.github.com/siddhikewatkar/Crypto-currency-tracker"
+      "description": "This project is a Power BI dashboard that shows the sales performance of a coffee shop with multiple store locations. It helps understand how the business is doing by analyzing sales, customer visits, top products, and buying patterns.",
+      "skills": ["Excel", "Power BI"],
+      "source": "https://www.github.com/siddhikewatkar/Coffee-shop-sales-Analysis"
     },
     {
-      "title": "Amazon clone",
+      "title": "Superstore-sales Analysis",
       "imageSrc": "/data/amazonss.png",
-      "description": "Built to learn modern web technologies by building an Amazon clone app with features like product listings, a shopping cart, and user authentication.",
-      "skills": ["React", "JavaScript", "CSS", "HTML"],
-      "demo": "https://sidamizon.netlify.app/",
-      "source": "https://www.github.com/siddhikewatkar/Amazon-clone"
+      "description": "This Power BI dashboard provides a detailed analysis of product performance across different categories, regions, and markets. It helps businesses track sales, discounts, quantity, and market behavior to make data-driven decisions.",
+      "skills": ["Excel", "Power BI"],
+      "source": "https://www.github.com/siddhikewatkar/Superstore-sales-Analysis"
     },
-    {
-      "title": "Weather App",
-      "imageSrc": "/data/weatherss.png",
-      "description": "Built to explore web technologies through a weather app and fetches real-time weather data using an API displays it for user-specified locations.",
-      "skills": ["HTML", "CSS", "JavaScript"],
-      "demo": "https://sidd-weather-app.netlify.app/",
-      "source": "https://www.github.com/siddhikewatkar/Weather-app"
-    }
+    
   ]
