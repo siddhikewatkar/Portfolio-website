@@ -5,18 +5,18 @@
   },
   {
     "title": "Power BI",
-    "imageSrc": "/data/powerbi.png"
+    "imageSrc": "/data/power bi.png"
   },
   {
     "title": "Tableau",
-    "imageSrc": "/data/tableau.png"
+    "imageSrc": "/data/tableu.png"
   },
   {
     "title": "SQL",
-    "imageSrc": "/data/sql.png"
+    "imageSrc": "/data/sql.jpeg"
   },
   {
     "title": "Python",
-    "imageSrc": "/data/python.png"
+    "imageSrc": "/data/python.jpeg"
   }
 ]
