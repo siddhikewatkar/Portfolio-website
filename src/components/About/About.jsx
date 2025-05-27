@@ -16,18 +16,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src="/data/cursorIcon.png" alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Business Analyst</h3>
               <p>
-                I'm a frontend developer with skills in building responsive and optimized sites
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <img src="/data/uiIcon.png" alt="UI icon" />
-            <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
-              <p>
-                I have designed multiple landing pages and have created design systems as well
+                Engineering student passionate about data-driven decisions, skilled in Power BI, Excel, and SQL, aspiring Business Analyst
               </p>
             </div>
           </li>
