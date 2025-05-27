@@ -5,7 +5,7 @@
   },
   {
     "title": "Power BI",
-    "imageSrc": "/data/power bi.png"
+    "imageSrc": "/data/powerbi.png"
   },
   {
     "title": "Tableau",
@@ -17,6 +17,6 @@
   },
   {
     "title": "Python",
-    "imageSrc": "/data/python.jpeg"
+    "imageSrc": "/data/pyhton.jpeg"
   }
 ]
