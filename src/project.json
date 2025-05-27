@@ -6,13 +6,11 @@
       "skills": ["Excel", "Power BI"],
       "source": "https://www.github.com/siddhikewatkar/Coffee-shop-sales-Analysis"
     },
-    
     {
       "title": "Superstore-sales Analysis",
       "imageSrc": "/data/superstore-sales-analysis.png",
       "description": "This Power BI dashboard provides a detailed analysis of product performance across different categories, regions, and markets. It helps businesses track sales, discounts, quantity, and market behavior to make data-driven decisions.",
       "skills": ["Excel", "Power BI"],
       "source": "https://www.github.com/siddhikewatkar/Superstore-sales-Analysis"
-    },
-    
+    }
   ]
