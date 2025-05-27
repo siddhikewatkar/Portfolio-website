@@ -17,7 +17,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Business Analyst</h3>
               <p>
-                Engineering student passionate about data-driven decisions, skilled in Power BI, Excel, and SQL, aspiring Business Analyst
+                An Engineering student passionate about data-driven decisions, skilled in Power BI, Excel, and SQL, aspiring Business Analyst
               </p>
             </div>
           </li>
