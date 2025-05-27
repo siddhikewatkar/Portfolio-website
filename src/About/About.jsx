@@ -1,7 +1,6 @@
 import React from "react";
 
 import styles from "./About.module.css";
-
 export const About = () => {
   return (
     <section className={styles.container} id="about">
