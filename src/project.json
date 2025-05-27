@@ -1,6 +1,6 @@
 [
     {
-      "title": "Coffee-shop-sales Analysis",
+      "title": "Coffeeshop-sale Analysis",
       "imageSrc": "/data/coffee-sales-analysis.png",
       "description": "This project is a Power BI dashboard that shows the sales performance of a coffee shop with multiple store locations. It helps understand how the business is doing by analyzing sales, customer visits, top products, and buying patterns.",
       "skills": ["Excel", "Power BI"],
