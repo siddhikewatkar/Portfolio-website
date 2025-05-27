@@ -6,12 +6,12 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Siddhi</h1>
+        <h1 className={styles.title}>Hi, I'm Siddhi </h1>
         <p className={styles.description}>
         Engineering student passionate about data-driven decisions, skilled in Power BI, Excel, and SQL, aspiring Business Analyst
         </p>
         <a href="mailto:siddhikewatkar27@gmail.com" className={styles.contactBtn}>
-          Contact Me
+          Contact Me 
         </a>
       </div>
       <img
